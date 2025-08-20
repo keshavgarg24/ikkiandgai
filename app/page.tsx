@@ -511,7 +511,7 @@ export default function IkiAndGaiLanding() {
             </div>
 
             <div className="border-t border-white/10 pt-8 sm:pt-12">
-              <p className="text-xs sm:text-sm text-gray-500 font-light" style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>© 2024 Iki & Gai Premium Bar. Owned by Sarthak.</p>
+              <p className="text-xs sm:text-sm text-gray-500 font-light" style={{ fontFamily: 'Inter, system-ui, sans-serif' }}>© 2025 Iki & Gai Bar. Owned by Sarthak.</p>
             </div>
           </div>
         </footer>

@@ -18,7 +18,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Iki & Gai - Premium Bar & Lounge | New Delhi",
+  title: "Iki & Gai - Bar & Lounge | New Delhi",
   description:
     "An intimate sanctuary for connoisseurs. Experience crafted excellence with artisanal cocktails, expert mixology, and sophisticated atmosphere in the heart of New Delhi.",
   generator: "v0.app",
